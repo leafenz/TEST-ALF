@@ -1,7 +1,8 @@
 TODO List for ALF
 
-//empty string
-1. „“ => "Spaceship lost forever."  
+//empty string 
+//okay
+1. „“ => "Spaceship lost forever."   
 //just one row
 2. „....X.....“ => [4, 0]
 //no X
