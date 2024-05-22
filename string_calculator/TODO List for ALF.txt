@@ -10,7 +10,7 @@ TODO List for ALF
 //okay
 3. „..........\n..........\n..........\n..........\n..........\n..........“ => "Spaceship lost forever."
 //X on the first position
-//in progress
+//okay
 4. „..........\n..........\n..........\n..........\n..........\nX.........“ => "[0, 0]" 
 //X still in the first row but last position
 5. „..........\n..........\n..........\n..........\n..........\n.........X“ => [9, 0]
