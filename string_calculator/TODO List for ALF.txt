@@ -7,7 +7,7 @@ TODO List for ALF
 //okay
 2. „....X....“ => [4, 0]
 //no X
-//in progress
+//okay
 3. „..........\n..........\n..........\n..........\n..........\n..........“ => "Spaceship lost forever."
 //X on the first position
 4. „..........\n..........\n..........\n..........\n..........\nX.........“ => "[0, 0]" 
