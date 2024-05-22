@@ -4,7 +4,8 @@ TODO List for ALF
 //okay
 1. „“ => "Spaceship lost forever."   
 //just one row
-2. „....X.....“ => [4, 0]
+//in progress
+2. „....X....“ => [4, 0]
 //no X
 3. „..........\n..........\n..........\n..........\n..........\n..........“ => "Spaceship lost forever."
 //X on the first position
